@@ -1,1 +1,6 @@
-#TODO
+ContemporaryComposer is a project written for composers, that don't want to overwork themselves. CC generates score semiautomatically. 
+
+Main goals:
+- results should be unpredictable in microscale (randomized as much as possible)
+- auditory effect could be unpleasant (CC doesn't focus on it)
+- score should arouse curiosity (a contemporary composer should say "oh, that's interesting" when looking at score)
